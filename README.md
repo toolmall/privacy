@@ -1,5 +1,5 @@
 
-#Privacy policy
+##Privacy policy
 
 Tool Mall Respect and protect the personal privacy of all service users. In order to provide you with more accurate and personalized services, the app will use and disclose your personal information in accordance with the provisions of this privacy policy. However, this application will treat such information with a high degree of care and due diligence. Unless otherwise provided in this privacy policy, the app will not disclose or provide such information to any third party without your prior permission. This application will update this privacy policy from time to time. When you agree to the usage agreement of this application service, you shall be deemed to have agreed to the entire content of this privacy policy. This privacy policy is an integral part of the application service usage agreement.  
 
